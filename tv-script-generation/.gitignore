@@ -1,10 +1,10 @@
-data
+data/
 .ipynb_checkpoints
 __pycache__
 checkpoint
 params.p
 preprocess.p
 requirements.txt
-save.data-00000-of-00001
 save.index
 save.meta
+save.data-00000-of-00001
